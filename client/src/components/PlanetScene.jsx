@@ -18,7 +18,7 @@ const PlanetScene = () => {
           Mixorix
         </h1>
         <p className="text-gray-300 text-lg mt-4 tracking-wide">
-          🌐 Building the future of Civil with AI
+          🌐 Building the future of Civil with AI.
         </p>
         <p className="text-sm text-gray-400 mt-1">🚀 Coming Soon...</p>
       </div>
